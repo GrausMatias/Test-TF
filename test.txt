@@ -1,0 +1,1687 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+	<!-- Google Tag Manager -->
+	<script>
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T73VJ5K');
+	</script>
+	<!-- End Google Tag Manager -->
+	<meta charset="UTF-8">
+	<meta name="viewport" id="viewport"
+		content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+	<link rel="pingback" href="https://arcosdoradosdigital.com/pr/xmlrpc.php" />
+	<meta property="og:image"
+		content="https://arcosdoradosdigital.com/pr/wp-content/uploads/sites/4/2023/02/WD_Resort-1000x600.jpg" />
+	<meta name="twitter:image"
+		content="https://arcosdoradosdigital.com/pr/wp-content/uploads/sites/4/2023/02/WD_Resort-1000x600.jpg" />
+	<meta property="og:description" content="Descubra tudo o que acontece em Arcos Dorados" />
+	<script type='text/javascript'>
+		window.superWebShareFallback = {"superwebshare_fallback_enable":"enable"} 
+	</script>
+	<meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v17.8 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Página no encontrada - Arcos Dorados Digital Portugues</title>
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:title" content="Página no encontrada - Arcos Dorados Digital Portugues" />
+	<meta property="og:site_name" content="Arcos Dorados Digital Portugues" />
+	<script type="application/ld+json" class="yoast-schema-graph">
+		{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://arcosdoradosdigital.com/pr/#website","url":"https://arcosdoradosdigital.com/pr/","name":"Arcos Dorados Digital Portugues","description":"Descubra tudo o que acontece em Arcos Dorados","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://arcosdoradosdigital.com/pr/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"es"}]}
+	</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+	<link rel='dns-prefetch' href='//s.w.org' />
+	<link rel="alternate" type="application/rss+xml" title="Arcos Dorados Digital Portugues &raquo; Feed"
+		href="https://arcosdoradosdigital.com/pr/feed/" />
+	<link rel="alternate" type="application/rss+xml"
+		title="Arcos Dorados Digital Portugues &raquo; Feed de los comentarios"
+		href="https://arcosdoradosdigital.com/pr/comments/feed/" />
+	<!-- This site uses the Google Analytics by MonsterInsights plugin v7.18.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+	<script src="//www.googletagmanager.com/gtag/js?id=UA-121782069-1" type="text/javascript" data-cfasync="false"
+		async></script>
+	<script type="text/javascript" data-cfasync="false">
+		var mi_version = '7.18.0';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+				
+								var disableStr = 'ga-disable-UA-121782069-1';
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					return document.cookie.indexOf( disableStr + '=true' ) > - 1;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if ( __gtagTrackerIsOptedOut() ) {
+					window[disableStr] = true;
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+					window[disableStr] = true;
+				}
+
+				if ( 'undefined' === typeof gaOptout ) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+				if ( mi_track_user ) {
+					function __gtagTracker() {dataLayer.push( arguments );}
+					__gtagTracker( 'js', new Date() );
+					__gtagTracker( 'set', {
+						'developer_id.dZGIzZG' : true,
+						                    });
+					__gtagTracker( 'config', 'UA-121782069-1', {
+						forceSSL:true,link_attribution:true,page_path:'/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer,					} );
+										window.gtag = __gtagTracker;										(
+						function () {
+							/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+							/* ga and __gaTracker compatibility shim. */
+							var noopfn = function () {
+								return null;
+							};
+							var newtracker = function () {
+								return new Tracker();
+							};
+							var Tracker = function () {
+								return null;
+							};
+							var p = Tracker.prototype;
+							p.get = noopfn;
+							p.set = noopfn;
+							p.send = function (){
+								var args = Array.prototype.slice.call(arguments);
+								args.unshift( 'send' );
+								__gaTracker.apply(null, args);
+							};
+							var __gaTracker = function () {
+								var len = arguments.length;
+								if ( len === 0 ) {
+									return;
+								}
+								var f = arguments[len - 1];
+								if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+									if ( 'send' === arguments[0] ) {
+										var hitConverted, hitObject = false, action;
+										if ( 'event' === arguments[1] ) {
+											if ( 'undefined' !== typeof arguments[3] ) {
+												hitObject = {
+													'eventAction': arguments[3],
+													'eventCategory': arguments[2],
+													'eventLabel': arguments[4],
+													'value': arguments[5] ? arguments[5] : 1,
+												}
+											}
+										}
+										if ( 'pageview' === arguments[1] ) {
+											if ( 'undefined' !== typeof arguments[2] ) {
+												hitObject = {
+													'eventAction': 'page_view',
+													'page_path' : arguments[2],
+												}
+											}
+										}
+										if ( typeof arguments[2] === 'object' ) {
+											hitObject = arguments[2];
+										}
+										if ( typeof arguments[5] === 'object' ) {
+											Object.assign( hitObject, arguments[5] );
+										}
+										if ( 'undefined' !== typeof arguments[1].hitType ) {
+											hitObject = arguments[1];
+											if ( 'pageview' === hitObject.hitType ) {
+												hitObject.eventAction = 'page_view';
+											}
+										}
+										if ( hitObject ) {
+											action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+											hitConverted = mapArgs( hitObject );
+											__gtagTracker( 'event', action, hitConverted );
+										}
+									}
+									return;
+								}
+
+								function mapArgs( args ) {
+									var arg, hit = {};
+									var gaMap = {
+										'eventCategory': 'event_category',
+										'eventAction': 'event_action',
+										'eventLabel': 'event_label',
+										'eventValue': 'event_value',
+										'nonInteraction': 'non_interaction',
+										'timingCategory': 'event_category',
+										'timingVar': 'name',
+										'timingValue': 'value',
+										'timingLabel': 'event_label',
+										'page' : 'page_path',
+										'location' : 'page_location',
+										'title' : 'page_title',
+									};
+									for ( arg in args ) {
+										if ( args.hasOwnProperty(arg) && gaMap.hasOwnProperty(arg) ) {
+											hit[gaMap[arg]] = args[arg];
+										} else {
+											hit[arg] = args[arg];
+										}
+									}
+									return hit;
+								}
+
+								try {
+									f.hitCallback();
+								} catch ( ex ) {
+								}
+							};
+							__gaTracker.create = newtracker;
+							__gaTracker.getByName = newtracker;
+							__gaTracker.getAll = function () {
+								return [];
+							};
+							__gaTracker.remove = noopfn;
+							__gaTracker.loaded = true;
+							window['__gaTracker'] = __gaTracker;
+						}
+					)();
+									} else {
+										console.log( "" );
+					( function () {
+							function __gtagTracker() {
+								return null;
+							}
+							window['__gtagTracker'] = __gtagTracker;
+							window['gtag'] = __gtagTracker;
+					} )();
+									}
+	</script>
+	<!-- / Google Analytics by MonsterInsights -->
+	<script type="text/javascript">
+		window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/arcosdoradosdigital.com\/pr\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+	</script>
+	<style type="text/css">
+		img.wp-smiley,
+		img.emoji {
+			display: inline !important;
+			border: none !important;
+			box-shadow: none !important;
+			height: 1em !important;
+			width: 1em !important;
+			margin: 0 0.07em !important;
+			vertical-align: -0.1em !important;
+			background: none !important;
+			padding: 0 !important;
+		}
+	</style>
+	<link rel='stylesheet' id='dashicons-css'
+		href='https://arcosdoradosdigital.com/pr/wp-includes/css/dashicons.min.css?ver=5.9' type='text/css'
+		media='all' />
+	<link rel='stylesheet' id='theme-my-login-css'
+		href='https://arcosdoradosdigital.com/pr/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.4.16'
+		type='text/css' media='all' />
+	<link rel='stylesheet' id='wp-block-library-css'
+		href='https://arcosdoradosdigital.com/pr/wp-includes/css/dist/block-library/style.min.css?ver=5.9'
+		type='text/css' media='all' />
+	<style id='global-styles-inline-css' type='text/css'>
+		body {
+			--wp--preset--color--black: #000000;
+			--wp--preset--color--cyan-bluish-gray: #abb8c3;
+			--wp--preset--color--white: #ffffff;
+			--wp--preset--color--pale-pink: #f78da7;
+			--wp--preset--color--vivid-red: #cf2e2e;
+			--wp--preset--color--luminous-vivid-orange: #ff6900;
+			--wp--preset--color--luminous-vivid-amber: #fcb900;
+			--wp--preset--color--light-green-cyan: #7bdcb5;
+			--wp--preset--color--vivid-green-cyan: #00d084;
+			--wp--preset--color--pale-cyan-blue: #8ed1fc;
+			--wp--preset--color--vivid-cyan-blue: #0693e3;
+			--wp--preset--color--vivid-purple: #9b51e0;
+			--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg, rgba(6, 147, 227, 1) 0%, rgb(155, 81, 224) 100%);
+			--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg, rgb(122, 220, 180) 0%, rgb(0, 208, 130) 100%);
+			--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg, rgba(252, 185, 0, 1) 0%, rgba(255, 105, 0, 1) 100%);
+			--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg, rgba(255, 105, 0, 1) 0%, rgb(207, 46, 46) 100%);
+			--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg, rgb(238, 238, 238) 0%, rgb(169, 184, 195) 100%);
+			--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg, rgb(74, 234, 220) 0%, rgb(151, 120, 209) 20%, rgb(207, 42, 186) 40%, rgb(238, 44, 130) 60%, rgb(251, 105, 98) 80%, rgb(254, 248, 76) 100%);
+			--wp--preset--gradient--blush-light-purple: linear-gradient(135deg, rgb(255, 206, 236) 0%, rgb(152, 150, 240) 100%);
+			--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg, rgb(254, 205, 165) 0%, rgb(254, 45, 45) 50%, rgb(107, 0, 62) 100%);
+			--wp--preset--gradient--luminous-dusk: linear-gradient(135deg, rgb(255, 203, 112) 0%, rgb(199, 81, 192) 50%, rgb(65, 88, 208) 100%);
+			--wp--preset--gradient--pale-ocean: linear-gradient(135deg, rgb(255, 245, 203) 0%, rgb(182, 227, 212) 50%, rgb(51, 167, 181) 100%);
+			--wp--preset--gradient--electric-grass: linear-gradient(135deg, rgb(202, 248, 128) 0%, rgb(113, 206, 126) 100%);
+			--wp--preset--gradient--midnight: linear-gradient(135deg, rgb(2, 3, 129) 0%, rgb(40, 116, 252) 100%);
+			--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');
+			--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');
+			--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');
+			--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');
+			--wp--preset--duotone--midnight: url('#wp-duotone-midnight');
+			--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');
+			--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');
+			--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');
+			--wp--preset--font-size--small: 13px;
+			--wp--preset--font-size--medium: 20px;
+			--wp--preset--font-size--large: 36px;
+			--wp--preset--font-size--x-large: 42px;
+		}
+
+		.has-black-color {
+			color: var(--wp--preset--color--black) !important;
+		}
+
+		.has-cyan-bluish-gray-color {
+			color: var(--wp--preset--color--cyan-bluish-gray) !important;
+		}
+
+		.has-white-color {
+			color: var(--wp--preset--color--white) !important;
+		}
+
+		.has-pale-pink-color {
+			color: var(--wp--preset--color--pale-pink) !important;
+		}
+
+		.has-vivid-red-color {
+			color: var(--wp--preset--color--vivid-red) !important;
+		}
+
+		.has-luminous-vivid-orange-color {
+			color: var(--wp--preset--color--luminous-vivid-orange) !important;
+		}
+
+		.has-luminous-vivid-amber-color {
+			color: var(--wp--preset--color--luminous-vivid-amber) !important;
+		}
+
+		.has-light-green-cyan-color {
+			color: var(--wp--preset--color--light-green-cyan) !important;
+		}
+
+		.has-vivid-green-cyan-color {
+			color: var(--wp--preset--color--vivid-green-cyan) !important;
+		}
+
+		.has-pale-cyan-blue-color {
+			color: var(--wp--preset--color--pale-cyan-blue) !important;
+		}
+
+		.has-vivid-cyan-blue-color {
+			color: var(--wp--preset--color--vivid-cyan-blue) !important;
+		}
+
+		.has-vivid-purple-color {
+			color: var(--wp--preset--color--vivid-purple) !important;
+		}
+
+		.has-black-background-color {
+			background-color: var(--wp--preset--color--black) !important;
+		}
+
+		.has-cyan-bluish-gray-background-color {
+			background-color: var(--wp--preset--color--cyan-bluish-gray) !important;
+		}
+
+		.has-white-background-color {
+			background-color: var(--wp--preset--color--white) !important;
+		}
+
+		.has-pale-pink-background-color {
+			background-color: var(--wp--preset--color--pale-pink) !important;
+		}
+
+		.has-vivid-red-background-color {
+			background-color: var(--wp--preset--color--vivid-red) !important;
+		}
+
+		.has-luminous-vivid-orange-background-color {
+			background-color: var(--wp--preset--color--luminous-vivid-orange) !important;
+		}
+
+		.has-luminous-vivid-amber-background-color {
+			background-color: var(--wp--preset--color--luminous-vivid-amber) !important;
+		}
+
+		.has-light-green-cyan-background-color {
+			background-color: var(--wp--preset--color--light-green-cyan) !important;
+		}
+
+		.has-vivid-green-cyan-background-color {
+			background-color: var(--wp--preset--color--vivid-green-cyan) !important;
+		}
+
+		.has-pale-cyan-blue-background-color {
+			background-color: var(--wp--preset--color--pale-cyan-blue) !important;
+		}
+
+		.has-vivid-cyan-blue-background-color {
+			background-color: var(--wp--preset--color--vivid-cyan-blue) !important;
+		}
+
+		.has-vivid-purple-background-color {
+			background-color: var(--wp--preset--color--vivid-purple) !important;
+		}
+
+		.has-black-border-color {
+			border-color: var(--wp--preset--color--black) !important;
+		}
+
+		.has-cyan-bluish-gray-border-color {
+			border-color: var(--wp--preset--color--cyan-bluish-gray) !important;
+		}
+
+		.has-white-border-color {
+			border-color: var(--wp--preset--color--white) !important;
+		}
+
+		.has-pale-pink-border-color {
+			border-color: var(--wp--preset--color--pale-pink) !important;
+		}
+
+		.has-vivid-red-border-color {
+			border-color: var(--wp--preset--color--vivid-red) !important;
+		}
+
+		.has-luminous-vivid-orange-border-color {
+			border-color: var(--wp--preset--color--luminous-vivid-orange) !important;
+		}
+
+		.has-luminous-vivid-amber-border-color {
+			border-color: var(--wp--preset--color--luminous-vivid-amber) !important;
+		}
+
+		.has-light-green-cyan-border-color {
+			border-color: var(--wp--preset--color--light-green-cyan) !important;
+		}
+
+		.has-vivid-green-cyan-border-color {
+			border-color: var(--wp--preset--color--vivid-green-cyan) !important;
+		}
+
+		.has-pale-cyan-blue-border-color {
+			border-color: var(--wp--preset--color--pale-cyan-blue) !important;
+		}
+
+		.has-vivid-cyan-blue-border-color {
+			border-color: var(--wp--preset--color--vivid-cyan-blue) !important;
+		}
+
+		.has-vivid-purple-border-color {
+			border-color: var(--wp--preset--color--vivid-purple) !important;
+		}
+
+		.has-vivid-cyan-blue-to-vivid-purple-gradient-background {
+			background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;
+		}
+
+		.has-light-green-cyan-to-vivid-green-cyan-gradient-background {
+			background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;
+		}
+
+		.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background {
+			background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;
+		}
+
+		.has-luminous-vivid-orange-to-vivid-red-gradient-background {
+			background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;
+		}
+
+		.has-very-light-gray-to-cyan-bluish-gray-gradient-background {
+			background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;
+		}
+
+		.has-cool-to-warm-spectrum-gradient-background {
+			background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;
+		}
+
+		.has-blush-light-purple-gradient-background {
+			background: var(--wp--preset--gradient--blush-light-purple) !important;
+		}
+
+		.has-blush-bordeaux-gradient-background {
+			background: var(--wp--preset--gradient--blush-bordeaux) !important;
+		}
+
+		.has-luminous-dusk-gradient-background {
+			background: var(--wp--preset--gradient--luminous-dusk) !important;
+		}
+
+		.has-pale-ocean-gradient-background {
+			background: var(--wp--preset--gradient--pale-ocean) !important;
+		}
+
+		.has-electric-grass-gradient-background {
+			background: var(--wp--preset--gradient--electric-grass) !important;
+		}
+
+		.has-midnight-gradient-background {
+			background: var(--wp--preset--gradient--midnight) !important;
+		}
+
+		.has-small-font-size {
+			font-size: var(--wp--preset--font-size--small) !important;
+		}
+
+		.has-medium-font-size {
+			font-size: var(--wp--preset--font-size--medium) !important;
+		}
+
+		.has-large-font-size {
+			font-size: var(--wp--preset--font-size--large) !important;
+		}
+
+		.has-x-large-font-size {
+			font-size: var(--wp--preset--font-size--x-large) !important;
+		}
+	</style>
+	<link rel='stylesheet' id='prefix-style-css'
+		href='https://arcosdoradosdigital.com/pr/wp-content/plugins/language-icons-flags-switcher/style.css?ver=5.9'
+		type='text/css' media='all' />
+	<link rel='stylesheet' id='mvp-custom-style-css'
+		href='https://arcosdoradosdigital.com/pr/wp-content/themes/click-mag-2/style.css?ver=5.9' type='text/css'
+		media='all' />
+	<style id='mvp-custom-style-inline-css' type='text/css'>
+		#mvp-wallpaper {
+			background: url() no-repeat 50% 0;
+		}
+
+		a,
+		a:visited,
+		.post-info-name a,
+		.woocommerce .woocommerce-breadcrumb a {
+			color: #0077ee;
+		}
+
+		a:hover,
+		nav.mvp-fly-nav-menu ul li a:hover,
+		.mvp-feat1-story-text h2:hover,
+		.mvp-feat2-sub-text h2:hover,
+		.mvp-feat3-text h2:hover,
+		.mvp-main-blog-text h2:hover,
+		.mvp-trend-widget-text h2:hover,
+		.mvp-related-text a:hover,
+		ul.mvp-post-soc-list li.mvp-post-soc-comm:hover,
+		span.mvp-author-box-soc:hover,
+		.woocommerce .woocommerce-breadcrumb a:hover,
+		h3.mvp-authors-list-head a:hover,
+		.mvp-authors-widget-wrap span.mvp-main-blog-cat:hover,
+		.mvp-wide-widget-text h2:hover,
+		.mvp-side-widget a:hover,
+		.mvp-blog-col-text h2:hover,
+		#mvp-nav-menu ul li ul.mvp-mega-list li a:hover {
+			color: #ff3c36 !important;
+		}
+
+		.mvp-fly-top:hover,
+		span.mvp-feat1-main-cat,
+		span.mvp-feat2-sub-cat,
+		span.mvp-feat3-cat,
+		span.mvp-blog-col-cat,
+		span.mvp-feat2-main-cat,
+		.mvp-trend-widget-img:after,
+		.mvp-feat-vid-but,
+		.mvp-feat-gal-but,
+		span.mvp-post-cat,
+		.mvp-prev-next-text a,
+		.mvp-prev-next-text a:visited,
+		.mvp-prev-next-text a:hover,
+		#mvp-comments-button a,
+		#mvp-comments-button span.mvp-comment-but-text,
+		a.mvp-inf-more-but:hover,
+		.mvp-side-widget .mvp-tag-cloud a:hover,
+		span.mvp-ad-rel-but {
+			background: #ff3c36;
+		}
+
+		.mvp-fly-top:hover {
+			border: 1px solid #ff3c36;
+		}
+
+		h4.mvp-post-header {
+			border-top: 1px solid #ff3c36;
+		}
+
+		.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+		.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+		.woocommerce span.onsale,
+		.woocommerce #respond input#submit.alt,
+		.woocommerce a.button.alt,
+		.woocommerce button.button.alt,
+		.woocommerce input.button.alt,
+		.woocommerce #respond input#submit.alt:hover,
+		.woocommerce a.button.alt:hover,
+		.woocommerce button.button.alt:hover,
+		.woocommerce input.button.alt:hover {
+			background-color: #ff3c36;
+		}
+
+		nav.mvp-fly-nav-menu ul li.menu-item-has-children:after,
+		span.mvp-blog-cat,
+		span.mvp-main-blog-cat,
+		h4.mvp-side-widget-head,
+		h4.mvp-post-bot-head,
+		#mvp-comments-button span.mvp-comment-but-text,
+		span.mvp-post-header,
+		.woocommerce .star-rating span:before,
+		span.mvp-related-head {
+			color: #ff3c36;
+		}
+
+		#mvp-nav-wrap,
+		.mvp-main-nav-cont {
+			background: #ffffff;
+		}
+
+		#mvp-nav-menu ul li a,
+		span.mvp-nav-search-but,
+		span.mvp-nav-soc-but {
+			color: #444444;
+		}
+
+		.mvp-fly-but-wrap span,
+		.mvp-search-but-wrap span {
+			background: #444444;
+		}
+
+		#mvp-nav-menu ul li.menu-item-has-children ul.sub-menu li a:after,
+		#mvp-nav-menu ul li.menu-item-has-children ul.sub-menu li ul.sub-menu li a:after,
+		#mvp-nav-menu ul li.menu-item-has-children ul.sub-menu li ul.sub-menu li ul.sub-menu li a:after,
+		#mvp-nav-menu ul li.menu-item-has-children ul.mvp-mega-list li a:after,
+		#mvp-nav-menu ul li.menu-item-has-children a:after {
+			border-color: #444444 transparent transparent transparent;
+		}
+
+		#mvp-nav-menu ul li:hover a,
+		span.mvp-nav-search-but:hover,
+		span.mvp-nav-soc-but:hover {
+			color: #ff3c36 !important;
+		}
+
+		#mvp-nav-menu ul li.menu-item-has-children:hover a:after {
+			border-color: #ff3c36 transparent transparent transparent !important;
+		}
+
+		.mvp-feat1-story-text h2,
+		.mvp-feat2-sub-text h2,
+		.mvp-feat1-trend-text h2,
+		.mvp-feat3-text h2,
+		.mvp-blog-col-text h2,
+		.mvp-main-blog-text h2,
+		.mvp-trend-widget-text h2,
+		.mvp-wide-widget-text h2,
+		.mvp-related-text a {
+			color: #222222;
+		}
+
+		#mvp-content-main,
+		.rwp-summary,
+		.rwp-u-review__comment {
+			font-family: 'Roboto', serif;
+		}
+
+		#mvp-nav-menu ul li a,
+		nav.mvp-fly-nav-menu ul li a,
+		#mvp-foot-nav ul.menu li a {
+			font-family: 'Roboto', sans-serif;
+		}
+
+		.mvp-feat2-main-title h2,
+		h1.mvp-post-title,
+		#mvp-nav-soc-title h4 {
+			font-family: 'Roboto', sans-serif;
+		}
+
+		.mvp-feat1-story-text h2,
+		.mvp-feat2-sub-text h2,
+		.mvp-feat1-trend-text h2,
+		.mvp-feat3-text h2,
+		.mvp-blog-col-text h2,
+		.mvp-main-blog-text h2,
+		.mvp-trend-widget-text h2,
+		.mvp-wide-widget-text h2,
+		.mvp-related-text a,
+		.mvp-prev-next-text a,
+		.mvp-prev-next-text a:visited,
+		.mvp-prev-next-text a:hover,
+		#mvp-404 h1,
+		h1.mvp-author-top-head,
+		#mvp-nav-menu ul li ul.mvp-mega-list li a,
+		#mvp-content-main blockquote p,
+		#woo-content h1.page-title,
+		.woocommerce div.product .product_title,
+		.woocommerce ul.products li.product h3,
+		.mvp-authors-list-posts a,
+		.mvp-side-widget a {
+			font-family: 'Roboto', sans-serif;
+		}
+
+		span.mvp-feat1-main-cat,
+		span.mvp-feat2-sub-cat,
+		span.mvp-blog-col-cat,
+		span.mvp-blog-cat,
+		h4.mvp-main-blog-head,
+		h1.mvp-main-blog-head,
+		span.mvp-main-blog-cat,
+		h4.mvp-side-widget-head,
+		span.mvp-post-cat,
+		h4.mvp-post-bot-head,
+		span.mvp-post-header,
+		h1.mvp-arch-head,
+		h4.mvp-arch-head,
+		.woocommerce ul.product_list_widget span.product-title,
+		.woocommerce ul.product_list_widget li a,
+		.woocommerce #reviews #comments ol.commentlist li .comment-text p.meta,
+		.woocommerce .related h2,
+		.woocommerce div.product .woocommerce-tabs .panel h2,
+		.woocommerce div.product .product_title,
+		#mvp-content-main h1,
+		#mvp-content-main h2,
+		#mvp-content-main h3,
+		#mvp-content-main h4,
+		#mvp-content-main h5,
+		#mvp-content-main h6,
+		#woo-content h1.page-title,
+		.woocommerce .woocommerce-breadcrumb,
+		h3.mvp-authors-list-head a,
+		span.mvp-authors-list-post-head {
+			font-family: 'Roboto', sans-serif;
+		}
+
+
+
+		#mvp-ad-rel-wrap {
+			display: none;
+		}
+
+
+		.mvp-nav-links {
+			display: none;
+		}
+	</style>
+	<link rel='stylesheet' id='mvp-reset-css'
+		href='https://arcosdoradosdigital.com/pr/wp-content/themes/click-mag-2/css/reset.css?ver=5.9' type='text/css'
+		media='all' />
+	<link rel='stylesheet' id='fontawesome-css'
+		href='https://arcosdoradosdigital.com/pr/wp-content/themes/click-mag-2/font-awesome/css/font-awesome.css?ver=5.9'
+		type='text/css' media='all' />
+	<link rel='stylesheet' id='mvp-fonts-css'
+		href='//fonts.googleapis.com/css?family=Oswald%3A300%2C400%2C700%7CMerriweather%3A300%2C400%2C700%2C900%7CQuicksand%3A400%7CLato%3A300%2C400%2C700%7CPassion+One%3A400%2C700%7CWork+Sans%3A200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CMontserrat%3A400%2C700%7COpen+Sans+Condensed%3A300%2C700%7COpen+Sans%3A400%2C700%2C800%7CRoboto%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CRoboto%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CRoboto%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CRoboto%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CRoboto%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;subset=latin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese&#038;ver=1.0.0'
+		type='text/css' media='all' />
+	<link rel='stylesheet' id='mvp-media-queries-css'
+		href='https://arcosdoradosdigital.com/pr/wp-content/themes/click-mag-2/css/media-queries.css?ver=5.9'
+		type='text/css' media='all' />
+	<link rel='stylesheet' id='slb_core-css'
+		href='https://arcosdoradosdigital.com/pr/wp-content/plugins/controller.php/client/css/app.css?ver=5.9'
+		type='text/css' media='all' />
+	<!--n2css-->
+	<script type='text/javascript' id='monsterinsights-frontend-script-js-extra'>
+		/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/arcosdoradosdigital.com\/pr","hash_tracking":"false","ua":"UA-121782069-1"};
+/* ]]> */
+	</script>
+	<script type='text/javascript'
+		src='https://arcosdoradosdigital.com/pr/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=7.18.0'
+		id='monsterinsights-frontend-script-js'></script>
+	<script type='text/javascript'
+		src='https://arcosdoradosdigital.com/pr/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'>
+	</script>
+	<script type='text/javascript'
+		src='https://arcosdoradosdigital.com/pr/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2'
+		id='jquery-migrate-js'></script>
+	<script type='text/javascript'
+		src='https://arcosdoradosdigital.com/pr/wp-content/plugins/theme-my-login/modules/themed-profiles/themed-profiles.js?ver=5.9'
+		id='tml-themed-profiles-js'></script>
+	<link rel="https://api.w.org/" href="https://arcosdoradosdigital.com/pr/wp-json/" />
+	<link rel="EditURI" type="application/rsd+xml" title="RSD"
+		href="https://arcosdoradosdigital.com/pr/xmlrpc.php?rsd" />
+	<link rel="wlwmanifest" type="application/wlwmanifest+xml"
+		href="https://arcosdoradosdigital.com/pr/wp-includes/wlwmanifest.xml" />
+	<meta name="generator" content="WordPress 5.9" />
+
+
+	<!-- WPMobile.App -->
+	<meta name="theme-color" content="#0a0247" />
+	<meta name="msapplication-navbutton-color" content="#0a0247" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="#0a0247" />
+	<!-- / WPMobile.App -->
+
+	<style type="text/css" id="custom-background-css">
+		body.custom-background {
+			background-color: #fafafa;
+		}
+	</style>
+	<script type="text/javascript">
+		jQuery(document).ready(function(){
+		jQuery('#mvp-foot-copy p').html("Copyright © 2023 Arcos Dorados");
+	});
+	</script>
+	<script>
+		try{window.webkit.messageHandlers.wpmobile.postMessage('resetbadge');} catch(err) {}
+	</script>
+	<link rel="icon"
+		href="https://arcosdoradosdigital.com/pr/wp-content/uploads/sites/4/2019/08/cropped-favicon2-1-32x32.png"
+		sizes="32x32" />
+	<link rel="icon"
+		href="https://arcosdoradosdigital.com/pr/wp-content/uploads/sites/4/2019/08/cropped-favicon2-1-192x192.png"
+		sizes="192x192" />
+	<link rel="apple-touch-icon"
+		href="https://arcosdoradosdigital.com/pr/wp-content/uploads/sites/4/2019/08/cropped-favicon2-1-180x180.png" />
+	<meta name="msapplication-TileImage"
+		content="https://arcosdoradosdigital.com/pr/wp-content/uploads/sites/4/2019/08/cropped-favicon2-1-270x270.png" />
+	<style type="text/css"></style>
+	<script type="text/javascript"></script>
+	<style type="text/css" id="wp-custom-css">
+		#abrirPR:hover {
+			cursor: pointer;
+		}
+
+		#mvp-content-main {
+			margin-top: 20px !important;
+		}
+
+		#sharelinks i {
+			font-size: 2em;
+			border-radius: 25px !important;
+			padding: 5px 5px 5px 0;
+			width: 25px;
+			height: 25px;
+			color: white;
+			line-height: 25px;
+		}
+
+		#sharelinks li {
+			display: inline !important;
+			text-align: center;
+			margin-right: 5px;
+		}
+
+		.fa-whatsapp-square {
+			color: #25d366 !important;
+			background: none;
+		}
+
+		.fa-linkedin-square {
+			color: #0e76a8 !important;
+		}
+
+		.fa-facebook-square {
+			color: #3b5998 !important;
+		}
+
+		.fa-twitter-square {
+			color: #00acee !important;
+		}
+
+		.fa-envelope-square {
+			color: #888888 !important;
+		}
+
+		#mvp-post-head {
+			display: none;
+		}
+
+		@media (max-width: 479px) {
+			#sharelinks {
+				margin-top: 15px;
+			}
+		}
+
+		#mvp-post-content-mid {
+			margin-top: -15px;
+		}
+
+		#mvp-post-content {
+			margin-top: 20px;
+		}
+
+		.swh {
+			font-size: 20px;
+			border-radius: 25px !important;
+			padding: 5px;
+			width: 1px !important;
+			height: 25px;
+			color: white;
+			line-height: 25px;
+		}
+
+		.swh a i {
+			width: 12px;
+		}
+
+
+		.tlwpp * {
+			background: none !important;
+		}
+
+		.mvp-post-soc-what {
+			background: none !important;
+		}
+
+		#mvp-foot-nav {
+			margin-top: 0 !important;
+		}
+
+		@media (max-width: 479px) {
+			#sharelinks {
+				margin-top: 10px;
+			}
+		}
+
+		#mvp-nav-soc-bar {
+			display: none !important;
+		}
+
+
+		.single-post hr {
+			border: 1px solid #FFBC0D !important;
+			border-radius: 1px !important;
+			margin-bottom: 25px !important;
+		}
+
+		span.texto-color {
+			color: #ffbc0d !important;
+		}
+
+		#mvp-content-main ul {
+			font-size: 17px !important;
+		}
+
+
+		#mvp-logo-nav img {
+			max-width: 350px !important;
+			margin-top: -10px !important;
+			margin-bottom: 10px !important;
+		}
+
+		@media(max-width: 1216px) {
+			#menu-main {
+				display: none !important;
+			}
+		}
+
+
+		@media (max-width: 425px) {
+			#mvp-logo-nav img {
+				width: 200px !important;
+				margin-top: 0px !important;
+			}
+		}
+
+
+		.btn {
+			font-size: 12px;
+			text-transform: uppercase;
+			background: #ffbc0d;
+			color: white;
+			font-weight: 600;
+			letter-spacing: 1px;
+			padding: 0 30px 0 35px;
+			line-height: 46px;
+			position: relative;
+			z-index: 9;
+			display: inline-block;
+			-webkit-transition: all 0.35s !important;
+			transition: all 0.35s !important;
+			-moz-transition: all 0.35s !important;
+			-ms-transition: all 0.35s !important;
+			text-decoration: none;
+			border: none;
+		}
+
+		.btn::before {
+			content: "";
+			position: absolute;
+			display: block;
+			width: 100%;
+			height: 100%;
+			top: 0;
+			left: 1px;
+			z-index: -1;
+			background: #ffbc0d;
+			-webkit-transform-origin: bottom left;
+			transform-origin: bottom left;
+			-webkit-transform: skew(-12deg, 0deg);
+			transform: skew(-12deg, 0deg);
+			-webkit-transition: all 0.35s !important;
+			transition: all 0.35s !important;
+			-moz-transition: all 0.35s !important;
+			-ms-transition: all 0.35s !important;
+		}
+
+		.btn,
+		.btn:visited {
+			color: white !important;
+		}
+
+		.btn:hover {
+			box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+		}
+
+		.btn {
+			display: table;
+			margin: 0 auto;
+			text-align: center;
+		}
+
+		#menu-side {
+			margin-top: 20px !important;
+		}
+
+
+
+		.conocemas {
+			width: 1400px;
+			margin: 0 auto;
+		}
+
+		.conocemas p {
+			padding: 35px 0 35px;
+			border-bottom: 1px solid #ddd;
+			margin: 0 auto;
+			text-align: right;
+			line-height: 2;
+		}
+
+		.conocemas a {
+			padding: 10px 15px;
+			background-color: #8cbd46;
+			color: white;
+			margin-left: 10px;
+		}
+
+		.conocemas a:hover {
+			color: white !important;
+		}
+
+		@media (max-width: 1400px) {
+			.conocemas {
+				width: 100%;
+			}
+
+			.conocemas p {
+				padding-right: 20px !important;
+				padding-left: 20px !important;
+			}
+		}
+
+		@media (max-width: 750px) {
+			.conocemas a {
+				display: inline-block !important;
+
+				margin-top: 10px;
+			}
+		}
+
+		.btn-green {
+			float: left;
+			background-color: #8cbd46 !important;
+		}
+
+		.btn-green:before {
+
+			background-color: #8cbd46 !important;
+		}
+
+		.amarilload {
+			color: #ffbc0d !important;
+		}
+
+		.rojoad {
+			color: #db0007 !important;
+		}
+
+		.baconad {
+			color: #752157 !important;
+		}
+
+		.silhouettead {
+			color: #007078 !important;
+		}
+
+		.asterisco {
+			font-size: 13px !important;
+		}
+
+		#mvp-content-main ul li,
+		#mvp-content-main ol li {
+			font-size: 17px !important;
+		}
+
+		.video-container {
+			position: relative;
+			width: 100%;
+			padding-bottom: 56.25%;
+		}
+
+		.video-container iframe {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			border: 0;
+		}
+
+		.video-cuadrado {
+			width: 56.25% !important;
+			margin: 0 auto !important;
+		}
+
+		@media (max-width: 768px) {
+			.video-cuadrado {
+				width: 0% !important;
+				padding: 50% !important;
+			}
+		}
+
+
+
+		@media (min-width: 768px) {
+			.banner-mobile {
+				display: none !important;
+			}
+
+			.banner-home {
+				display: inherit !important;
+			}
+		}
+
+		@media (max-width: 767px) {
+			.video-cuadrado {
+				width: 0% !important;
+				padding: 50% !important;
+			}
+
+			.banner-home {
+				display: none !important;
+			}
+
+			.banner-mobile {
+				display: block !important;
+			}
+
+		}
+	</style>
+</head>
+
+<body class="error404 custom-background">
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T73VJ5K" height="0" width="0"
+			style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	<div id="mvp-fly-wrap">
+		<div id="mvp-fly-menu-top" class="left relative">
+			<div class="mvp-fly-top-out left relative">
+				<div class="mvp-fly-top-in">
+					<div id="mvp-fly-logo" class="left relative">
+						<a href="https://arcosdoradosdigital.com/pr/"><img src="https://arcosdoradosdigital.com/pr/wp-content/uploads/sites/4/2020/08/ARCOS-DORADOS-DIGITAL-CORPORATIVO.png" alt="Arcos Dorados Digital Portugues" data-rjs="2" /></a>
+					</div>
+					<!--mvp-fly-logo-->
+				</div>
+				<!--mvp-fly-top-in-->
+				<div class="mvp-fly-but-wrap mvp-fly-but-menu mvp-fly-but-click">
+					<span></span>
+					<span></span>
+					<span></span>
+					<span></span>
+				</div>
+				<!--mvp-fly-but-wrap-->
+			</div>
+			<!--mvp-fly-top-out-->
+		</div>
+		<!--mvp-fly-menu-top-->
+		<div id="mvp-fly-menu-wrap">
+			<nav class="mvp-fly-nav-menu left relative">
+				<div class="menu-side-container">
+					<ul id="menu-side" class="menu">
+						<li id="menu-item-2043"
+							class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-2043">
+							<a href="https://arcosdoradosdigital.com/pr/">Home</a></li>
+						<li id="menu-item-2041"
+							class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-2041">
+							<a href="https://arcosdoradosdigital.com/pr/noticias/">Notícias</a></li>
+						<li id="menu-item-2148"
+							class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2148">
+							<a href="#">Seções</a>
+							<ul class="sub-menu">
+								<li id="menu-item-2119"
+									class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2119">
+									<a href="https://arcosdoradosdigital.com/pr/category/adtalks/">AD TALKS</a>
+									<ul class="sub-menu">
+										<li id="menu-item-2191"
+											class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2191">
+											<a
+												href="https://arcosdoradosdigital.com/pr/category/adtalks/adtalksvideos/">AD
+												TALKS/ VIDEOS</a></li>
+										<li id="menu-item-2120"
+											class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2120">
+											<a
+												href="https://arcosdoradosdigital.com/pr/category/adtalks/ad-talks-10-anos-dourados/">AD
+												TALKS/ 10 ANOS DOURADOS</a></li>
+									</ul>
+								</li>
+								<li id="menu-item-4119"
+									class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4119"><a
+										href="https://arcosdoradosdigital.com/pr/fichas-de-arcos-dorados/">FICHA AD</a>
+								</li>
+								<li id="menu-item-4834"
+									class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4834">
+									<a href="https://arcosdoradosdigital.com/pr/category/hamburger-university/">HAMBURGER
+										UNIVERSITY</a></li>
+								<li id="menu-item-4999"
+									class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4999">
+									<a href="https://arcosdoradosdigital.com/pr/category/historias-douradas/">HISTÓRIAS
+										DOURADAS</a></li>
+							</ul>
+						</li>
+						<li id="menu-item-3875" class="menu-item menu-item-type- menu-item-object-login menu-item-3875">
+							<a
+								href="https://arcosdoradosdigital.com/pr/acceder/?redirect_to=https%3A%2F%2Farcosdoradosdigital.com%2Fpr%2Fcategory%2Fgerais%2F">POLÍTICAS</a>
+						</li>
+						<li id="menu-item-2455"
+							class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2455">
+							<a href="#">SEU PAÍS</a>
+							<ul class="sub-menu">
+								<li id="menu-item-2456"
+									class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2456"><a
+										href="https://arcosdoradosdigital.com/arg">ARGENTINA</a></li>
+								<li id="menu-item-3956"
+									class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3956"><a
+										href="https://arcosdoradosdigital.com/br">BRASIL</a></li>
+								<li id="menu-item-4262"
+									class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4262"><a
+										href="https://arcosdoradosdigital.com/co">COLÔMBIA</a></li>
+								<li id="menu-item-4259"
+									class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4259"><a
+										href="https://arcosdoradosdigital.com/mx">MÉXICO</a></li>
+							</ul>
+						</li>
+						<li id="menu-item-2174"
+							class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2174"><a
+								href="#">    </a></li>
+						<li id="menu-item-2046"
+							class="lang menu-item menu-item-type-custom menu-item-object-custom menu-item-2046"><a
+								href="https://arcosdoradosdigital.com">ESPAÑOL</a></li>
+						<li id="menu-item-2047"
+							class="lang menu-item menu-item-type-custom menu-item-object-custom menu-item-2047"><a
+								href="https://arcosdoradosdigital.com/en">ENGLISH</a></li>
+						<li id="menu-item-2048"
+							class="lang menu-item menu-item-type-custom menu-item-object-custom menu-item-2048"><a
+								href="https://arcosdoradosdigital.com/fr">FRANÇAIS</a></li>
+					</ul>
+				</div>
+			</nav>
+		</div>
+		<!--mvp-fly-menu-wrap-->
+		<div id="mvp-fly-soc-wrap">
+			<span class="mvp-fly-soc-head">Contactate con nosotros</span>
+			<ul class="mvp-fly-soc-list left relative">
+			</ul>
+		</div>
+		<!--mvp-fly-soc-wrap-->
+	</div>
+	<!--mvp-fly-wrap-->
+	<div id="mvp-site" class="left relative">
+		<header id="mvp-head-wrap" class="left relative">
+			<div id="mvp-head-top" class="left relative">
+				<div id="mvp-leader-wrap" class="left relative">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tbody>
+							<tr>
+								<td align="center" valign="middle">
+									<img class="banner-home" src="https://arcosdoradosdigital.com/pr/wp-content/uploads/sites/4/2023/03/banner_POR.gif" width="1400" height="200" style="display:block; margin:0px; border:0px;" /><img class="banner-mobile" src="https://arcosdoradosdigital.com/pr/wp-content/uploads/sites/4/2023/03/banner_POR_mobile.gif" width="1400" height="200" style="display:block; margin:0px; border:0px;" /></td>
+							</tr>
+						</tbody>
+					</table>
+					<section class="conocemas">
+						<p>Saiba mais sobre nosso <b>Compromisso Social e o Desenvolvimento Sustentável</b> em <a
+								href="https://recetadelfuturo.com" target="_blank">ReceitaDoFuturo.com.br</a>
+						</p>
+					</section>
+				</div>
+				<!--mvp-leader-wrap-->
+				<div id="mvp-search-wrap">
+					<div id="mvp-search-box">
+						<form method="get" id="searchform" action="https://arcosdoradosdigital.com/pr/">
+							<input type="text" name="s" id="s" value="Buscar" onfocus='if (this.value == "Buscar") { this.value = ""; }' onblur='if (this.value == "") { this.value = "Buscar"; }' />
+							<input type="hidden" id="searchsubmit" value="Search" />
+</form>
+					</div>
+					<!--mvp-search-box-->
+					<div class="mvp-search-but-wrap mvp-search-click">
+						<span></span>
+						<span></span>
+					</div>
+					<!--mvp-search-but-wrap-->
+				</div>
+				<!--mvp-search-wrap-->
+			</div>
+			<!--mvp-head-top-->
+			<div id="mvp-nav-wrap" class="left relative">
+				<div class="mvp-main-boxed-wrap">
+					<div class="mvp-main-out relative">
+						<div class="mvp-main-in">
+							<div class="mvp-main-nav-cont left relative">
+								<div class="mvp-nav-left-out">
+									<div class="mvp-fly-but-wrap mvp-fly-but-click left relative">
+										<span></span>
+										<span></span>
+										<span></span>
+										<span></span>
+									</div>
+									<!--mvp-fly-but-wrap-->
+									<div id="mvp-logo-nav" class="left relative" itemscope
+										itemtype="http://schema.org/Organization">
+										<a itemprop="url"
+											href="https://arcosdoradosdigital.com/pr/"><img itemprop="logo" src="https://arcosdoradosdigital.com/pr/wp-content/uploads/sites/4/2020/08/ARCOS-DORADOS-DIGITAL-CORPORATIVO.png" alt="Arcos Dorados Digital Portugues" data-rjs="2" /></a>
+											<h2 class="mvp-logo-title">Arcos Dorados Digital Portugues</h2>
+									</div>
+									<!--mvp-logo-nav-->
+									<div class="mvp-nav-left-in">
+										<div id="mvp-nav-right-wrap" class="left">
+											<div class="mvp-nav-right-out">
+												<div class="mvp-nav-right-in">
+													<div id="mvp-nav-main" class="left">
+														<nav id="mvp-nav-menu">
+															<div class="menu-main-container">
+																<ul id="menu-main" class="menu">
+																	<li id="menu-item-2059"
+																		class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-2059">
+																		<a
+																			href="https://arcosdoradosdigital.com/pr/noticias/">Notícias</a>
+																	</li>
+																	<li id="menu-item-2094"
+																		class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2094">
+																		<a href="#">Seções</a>
+																		<ul class="sub-menu">
+																			<li id="menu-item-2095"
+																				class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2095">
+																				<a
+																					href="https://arcosdoradosdigital.com/pr/category/adtalks/">AD
+																					TALKS</a>
+																				<ul class="sub-menu">
+																					<li id="menu-item-2187"
+																						class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2187">
+																						<a
+																							href="https://arcosdoradosdigital.com/pr/category/adtalks/adtalksvideos/">AD
+																							TALKS/ VIDEOS</a></li>
+																					<li id="menu-item-2866"
+																						class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2866">
+																						<a
+																							href="https://arcosdoradosdigital.com/pr/category/adtalks/adtalksreceita/">AD
+																							TALKS/ RECEITA DO FUTURO</a>
+																					</li>
+																					<li id="menu-item-2106"
+																						class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2106">
+																						<a
+																							href="https://arcosdoradosdigital.com/pr/category/adtalks/ad-talks-10-anos-dourados/">AD
+																							TALKS/ 10 ANOS DOURADOS</a>
+																					</li>
+																				</ul>
+																			</li>
+																			<li id="menu-item-3138"
+																				class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3138">
+																				<a
+																					href="https://arcosdoradosdigital.com/pr/category/hamburger-university/">HAMBURGER
+																					UNIVERSITY</a>
+																				<ul class="sub-menu">
+																					<li id="menu-item-3217"
+																						class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3217">
+																						<a
+																							href="https://arcosdoradosdigital.com/pr/category/agile-learning/">AGILE
+																							LEARNING</a></li>
+																					<li id="menu-item-3216"
+																						class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3216">
+																						<a
+																							href="https://arcosdoradosdigital.com/pr/category/dica-da-lideranca/">DICA
+																							DA LIDERANÇA</a></li>
+																					<li id="menu-item-4643"
+																						class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4643">
+																						<a
+																							href="https://arcosdoradosdigital.com/pr/category/entretenimento/">ENTRETENIMENTO</a>
+																					</li>
+																					<li id="menu-item-4832"
+																						class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4832">
+																						<a
+																							href="https://arcosdoradosdigital.com/pr/category/hu-informa/">HU
+																							INFORMA</a></li>
+																					<li id="menu-item-5351"
+																						class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5351">
+																						<a
+																							href="https://arcosdoradosdigital.com/pr/category/parcerias/">PARCERIAS</a>
+																					</li>
+																					<li id="menu-item-3674"
+																						class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3674">
+																						<a
+																							href="https://arcosdoradosdigital.com/pr/category/top-tips/">TOP
+																							TIPS</a></li>
+																					<li id="menu-item-5096"
+																						class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5096">
+																						<a
+																							href="https://arcosdoradosdigital.com/pr/category/transformacao-digital/">TRANSFORMAÇÃO
+																							DIGITAL</a></li>
+																				</ul>
+																			</li>
+																			<li id="menu-item-5001"
+																				class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5001">
+																				<a
+																					href="https://arcosdoradosdigital.com/pr/category/historias-douradas/">HISTÓRIAS
+																					DOURADAS</a></li>
+																			<li id="menu-item-4117"
+																				class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4117">
+																				<a
+																					href="https://arcosdoradosdigital.com/pr/fichas-de-arcos-dorados/">FICHA
+																					AD</a></li>
+																			<li id="menu-item-2214"
+																				class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2214">
+																				<a
+																					href="https://arcosdoradosdigital.com/pr/category/eotf/">EOTF</a>
+																			</li>
+																		</ul>
+																	</li>
+																	<li id="menu-item-3874"
+																		class="menu-item menu-item-type- menu-item-object-login menu-item-3874">
+																		<a
+																			href="https://arcosdoradosdigital.com/pr/acceder/?redirect_to=https%3A%2F%2Farcosdoradosdigital.com%2Fpr%2Fcategory%2Fgerais%2F">POLÍTICAS</a>
+																	</li>
+																	<li id="menu-item-2453"
+																		class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2453">
+																		<a href="#">SEU PAÍS</a>
+																		<ul class="sub-menu">
+																			<li id="menu-item-2454"
+																				class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2454">
+																				<a
+																					href="https://arcosdoradosdigital.com/arg">ARGENTINA</a>
+																			</li>
+																			<li id="menu-item-3955"
+																				class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3955">
+																				<a
+																					href="https://arcosdoradosdigital.com/br">BRASIL</a>
+																			</li>
+																			<li id="menu-item-4261"
+																				class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4261">
+																				<a
+																					href="https://arcosdoradosdigital.com/co">COLÔMBIA</a>
+																			</li>
+																			<li id="menu-item-4258"
+																				class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4258">
+																				<a
+																					href="https://arcosdoradosdigital.com/mx">MÉXICO</a>
+																			</li>
+																		</ul>
+																	</li>
+																	<li id="menu-item-2173"
+																		class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2173">
+																		<a href="#">                                </a>
+																	</li>
+																	<li id="menu-item-2145"
+																		class="lang menu-item menu-item-type-custom menu-item-object-custom menu-item-2145">
+																		<a
+																			href="https://arcosdoradosdigital.com">ESP</a>
+																	</li>
+																	<li id="menu-item-2146"
+																		class="lang menu-item menu-item-type-custom menu-item-object-custom menu-item-2146">
+																		<a
+																			href="https://arcosdoradosdigital.com/en">ENG</a>
+																	</li>
+																	<li id="menu-item-2147"
+																		class="lang menu-item menu-item-type-custom menu-item-object-custom menu-item-2147">
+																		<a
+																			href="https://arcosdoradosdigital.com/fr/">FRA</a>
+																	</li>
+																</ul>
+															</div>
+														</nav>
+														<!--mvp-nav-menu-->
+													</div>
+													<!--mvp-nav-main-->
+													<!--<div id="banderas">
+											<a href="http://portalmagico.esy.es" style="padding: 0px 5px 0px 5px;"><span style="text-transform: uppercase; color: #444444; font-weight: 600; font-size: 14px;">Esp</span></a>
+											<a href="http://portalmagico.esy.es/pr" style="padding: 0px 5px 0px 5px;"><span style="text-transform: uppercase; color: #444444; font-weight: 600; font-size: 14px;">Por</span></a>
+											<a href="http://portalmagico.esy.es/en" style="padding: 0px 5px 0px 5px;"><span style="text-transform: uppercase; color: #444444; font-weight: 600; font-size: 14px;">Ing</span></a>
+											<a href="http://portalmagico.esy.es/fr" style="padding: 0px 5px 0px 5px;"><span style="text-transform: uppercase; color: #444444; font-weight: 600; font-size: 14px;">Fra</span></a>
+										</div>-->
+												</div>
+												<!--mvp-nav-right-in-->
+												<div id="mvp-nav-right" class="relative">
+													<div id="mvp-nav-soc" class="left relative">
+													</div>
+													<!--mvp-nav-soc-->
+													<span class="mvp-nav-search-but fa fa-search fa-2 mvp-search-click"></span>
+
+												</div>
+												<!--mvp-nav-right-->
+											</div>
+											<!--mvp-nav-right-out-->
+										</div>
+										<!--mvp-nav-right-wrap-->
+									</div>
+									<!--mvp-nav-left-in-->
+								</div>
+								<!--mvp-nav-left-out-->
+							</div>
+							<!--mvp-main-nav-cont-->
+						</div>
+						<!--mvp-main-in-->
+					</div>
+					<!--mvp-main-out-->
+				</div>
+				<!--mvp-main-boxed-wrap-->
+			</div>
+			<!--mvp-nav-wrap-->
+		</header>
+		<!--mvp-head-wrap-->
+		<div id="mvp-main-wrap" class="left relative">
+			<div class="mvp-main-boxed-wrap">
+				<div class="mvp-main-out relative">
+					<div class="mvp-main-in">
+						<div id="mvp-main-content-wrap" class="left relative">
+							<section id="mvp-404">
+								<h1>Error 404!</h1>
+								<p>La página que solicitó no existe o se ha movido.</p>
+							</section>
+							<!--mvp-404-->
+						</div>
+						<!--mvp-main-content-wrap-->
+					</div>
+					<!--mvp-main-in-->
+				</div>
+				<!--mvp-main-out-->
+			</div>
+			<!--mvp-main-boxed-wrap-->
+		</div>
+		<!--mvp-main-wrap-->
+		<footer id="mvp-foot-wrap" class="left relative">
+			<div id="mvp-foot-top-wrap" class="left relative">
+				<div class="mvp-main-out relative">
+					<div class="mvp-main-in">
+						<div class="mvp-foot-in-wrap left relative">
+							<ul class="mvp-foot-soc-list left relative">
+							</ul>
+							<div id="mvp-foot-nav" class="left relative">
+								<div class="menu-footer-menu-container">
+									<ul id="menu-footer-menu" class="menu">
+										<li id="menu-item-2052"
+											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-2052">
+											<a href="https://arcosdoradosdigital.com/pr/">Home</a></li>
+										<li id="menu-item-2050"
+											class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-2050">
+											<a href="https://arcosdoradosdigital.com/pr/noticias/">Notícias</a></li>
+									</ul>
+								</div>
+							</div>
+							<!--mvp-foot-nav-->
+						</div>
+						<!--mvp-foot-in-wrap-->
+					</div>
+					<!--mvp-main-in-->
+				</div>
+				<!--mvp-main-out-->
+			</div>
+			<!--mvp-foot-top-wrap-->
+			<div id="mvp-foot-bot-wrap" class="left relative">
+				<div class="mvp-main-out relative">
+					<div class="mvp-main-in">
+						<div class="mvp-foot-in-wrap left relative">
+							<div id="mvp-foot-copy" class="left relative">
+								<p>Copyright © 2022 Arcos Dorados</p>
+							</div>
+							<!--mvp-foot-copy-->
+						</div>
+						<!--mvp-foot-in-wrap-->
+					</div>
+					<!--mvp-main-in-->
+				</div>
+				<!--mvp-main-out-->
+			</div>
+			<!--mvp-foot-bot-wrap-->
+		</footer>
+	</div>
+	<!--mvp-site-->
+	<div class="mvp-fly-top back-to-top">
+		<i class="fa fa-angle-up fa-3"></i>
+		<span class="mvp-fly-top-text">Arriba</span>
+	</div>
+	<!--mvp-fly-top-->
+	<div class="mvp-fly-fade mvp-fly-but-click">
+	</div>
+	<!--mvp-fly-fade-->
+	<!--
+The IP2Location Redirection is using IP2Location LITE geolocation database. Please visit https://lite.ip2location.com for more information.
+6b1a4501787756920567c251e84609a48e259e67
+-->
+	<div class="op9">
+		<style>
+			.op8,
+			.op7,
+			.op6,
+			.op5,
+			.op4,
+			.op3,
+			.op2,
+			.op1 {
+				position: fixed !important;
+			}
+		</style>
+		<style>
+			.op8 a,
+			.op7 a,
+			.op6 a,
+			.op5 a,
+			.op4 a,
+			.op3 a,
+			.op2 a,
+			.op1 a {
+				display: block;
+			}
+		</style>
+		<div data-theiaStickySidebar-sidebarSelector='"#secondary, #sidebar, .sidebar, #primary"'
+			data-theiaStickySidebar-options='{"containerSelector":"","additionalMarginTop":0,"additionalMarginBottom":0,"updateSidebarHeight":false,"minWidth":0,"sidebarBehavior":"modern","disableOnResponsiveLayouts":true}'>
+		</div>
+		<span class="wpappninja wpmobileapp" style="display:none"></span>
+		<script type='text/javascript'
+			src='https://arcosdoradosdigital.com/pr/wp-content/plugins/theia-sticky-sidebar/js/ResizeSensor.js?ver=1.7.0'
+			id='theia-sticky-sidebar/ResizeSensor.js-js'></script>
+		<script type='text/javascript'
+			src='https://arcosdoradosdigital.com/pr/wp-content/plugins/theia-sticky-sidebar/js/theia-sticky-sidebar.js?ver=1.7.0'
+			id='theia-sticky-sidebar/theia-sticky-sidebar.js-js'></script>
+		<script type='text/javascript'
+			src='https://arcosdoradosdigital.com/pr/wp-content/plugins/theia-sticky-sidebar/js/main.js?ver=1.7.0'
+			id='theia-sticky-sidebar/main.js-js'></script>
+		<script type='text/javascript'
+			src='https://arcosdoradosdigital.com/pr/wp-content/themes/click-mag-2/js/scripts.js?ver=5.9'
+			id='clickmag-js'></script>
+		<script type='text/javascript'
+			src='https://arcosdoradosdigital.com/pr/wp-content/themes/click-mag-2/js/retina.js?ver=5.9' id='retina-js'>
+		</script>
+		<script type='text/javascript'
+			src='https://arcosdoradosdigital.com/pr/wp-content/themes/click-mag-2/js/mvpcustom.js?ver=5.9'
+			id='mvp-custom-js'></script>
+		<script type='text/javascript' id='mvp-custom-js-after'>
+			jQuery(document).ready(function($) {
+	$(window).load(function(){
+	var aboveHeight = $("#mvp-head-top").outerHeight();
+	$(window).scroll(function(event){
+	    	if ($(window).scrollTop() > aboveHeight){
+	    		$("#mvp-nav-wrap").addClass("mvp-fixed").css("top","0");
+	    		$("#mvp-main-wrap").addClass("mvp-fixed-next");
+			$(".mvp-fly-top").addClass("mvp-to-top");
+	    	} else {
+	    		$("#mvp-nav-wrap").removeClass("mvp-fixed");
+	    		$("#mvp-main-wrap").removeClass("mvp-fixed-next");
+	    		$(".mvp-fly-top").removeClass("mvp-to-top");
+	    	}
+	});
+	});
+	});
+	
+
+	jQuery(document).ready(function($) {
+	// Main Menu Dropdown Toggle
+	$(".menu-item-has-children a").click(function(event){
+	  event.stopPropagation();
+	  location.href = this.href;
+  	});
+
+	$(".menu-item-has-children").click(function(){
+    	  $(this).addClass("toggled");
+    	  if($(".menu-item-has-children").hasClass("toggled"))
+    	  {
+    	  $(this).children("ul").toggle();
+	  $(".mvp-fly-nav-menu").getNiceScroll().resize();
+	  }
+	  $(this).toggleClass("tog-minus");
+    	  return false;
+  	});
+
+	// Main Menu Scroll
+	$(window).load(function(){
+	  $(".mvp-fly-nav-menu").niceScroll({cursorcolor:"#888",cursorwidth: 7,cursorborder: 0,zindex:999999});
+	});
+	});
+	
+
+	jQuery(document).ready(function($) {
+	$(".infinite-content").infinitescroll({
+	  navSelector: ".mvp-nav-links",
+	  nextSelector: ".mvp-nav-links a:first",
+	  itemSelector: ".infinite-post",
+	  errorCallback: function(){ $(".mvp-inf-more-but").css("display", "none") }
+	});
+	$(window).unbind(".infscr");
+	$(".mvp-inf-more-but").click(function(){
+   		$(".infinite-content").infinitescroll("retrieve");
+        	return false;
+	});
+	$(window).load(function(){
+		if ($(".mvp-nav-links a").length) {
+			$(".mvp-inf-more-but").css("display","inline-block");
+		} else {
+			$(".mvp-inf-more-but").css("display","none");
+		}
+	});
+	});
+	
+		</script>
+		<script type='text/javascript'
+			src='https://arcosdoradosdigital.com/pr/wp-content/themes/click-mag-2/js/jquery.infinitescroll.min.js?ver=5.9'
+			id='infinitescroll-js'></script>
+		<script type="text/javascript" id="slb_context">
+			/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */
+		</script>
+		<script type="text/javascript" src="https://s0.assets-yammer.com/assets/platform_social_buttons.min.js">
+		</script>
+		<script type="text/javascript">
+			yam.platform.yammerShare();
+		</script>
+</body>
+
+</html>
